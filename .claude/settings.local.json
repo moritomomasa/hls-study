@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "WebFetch(domain:arxiv.org)",
+      "WebFetch(domain:tvm.apache.org)",
+      "Bash(pip3 install *)",
+      "WebSearch",
+      "Bash(sudo apt-get install -y poppler-utils)",
+      "WebFetch(domain:ar5iv.labs.arxiv.org)",
+      "Bash(python3 -)"
+    ]
+  }
+}
