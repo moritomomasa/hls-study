@@ -8,7 +8,17 @@
       "WebSearch",
       "Bash(sudo apt-get install -y poppler-utils)",
       "WebFetch(domain:ar5iv.labs.arxiv.org)",
-      "Bash(python3 -)"
+      "Bash(python3 -)",
+      "Bash(python3 -c \"import PyPDF2\")",
+      "Bash(python3 -c \"import pdfminer\")",
+      "Bash(python3 -c \"import fitz\")",
+      "Bash(pip install *)",
+      "Bash(python3 -m pip --version)",
+      "Bash(python3 -m pip install --quiet --user pypdf)",
+      "Bash(sudo -n apt-get install -y poppler-utils)",
+      "Bash(apt-get install *)",
+      "WebFetch(domain:hal.science)",
+      "Bash(grep -c '```' /mnt/d/dv/hls-study/claudes/finn_explained.md)"
     ]
   }
 }
