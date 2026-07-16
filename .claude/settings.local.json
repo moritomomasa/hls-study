@@ -18,7 +18,8 @@
       "Bash(sudo -n apt-get install -y poppler-utils)",
       "Bash(apt-get install *)",
       "WebFetch(domain:hal.science)",
-      "Bash(grep -c '```' /mnt/d/dv/hls-study/claudes/finn_explained.md)"
+      "Bash(grep -c '```' /mnt/d/dv/hls-study/claudes/finn_explained.md)",
+      "Edit"
     ]
   }
 }
